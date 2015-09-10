@@ -1,0 +1,15 @@
+{
+    "name": "hungvu2803/pdo-repository",
+    "description": "test",
+    "authors": [
+        {
+            "name": "hungvu",
+            "email": "hungvu2803@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "src/PDOWrapper.php"
+        ]   
+    }
+}
